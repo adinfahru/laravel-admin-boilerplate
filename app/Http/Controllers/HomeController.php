@@ -35,6 +35,6 @@ class HomeController extends Controller
 
     public function post()
     {
-        return view('post');
+        return view('admin.post');
     }
 }
